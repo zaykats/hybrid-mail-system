@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pymongo
+motor
+pydantic
+python-dotenv
+passlib
+bcrypt
+langchain
+langchain-community
+openai
